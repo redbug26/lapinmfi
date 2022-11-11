@@ -1,4 +1,4 @@
-<img src="icon.png" width="200px" height="200x" align="right">
+<img src="lapin/Assets.xcassets/AppIcon.appiconset/joystick-flat-icon.png" width="200px" height="200x" align="right">
 
 # Lapin GameController testing machine
 
